@@ -281,7 +281,7 @@ img{
     }
     &__img{
         & img{
-            border-radius: .5rem;
+            border-radius: .15rem;
         }
     }
 }
@@ -327,6 +327,8 @@ img{
 }
 /* ===== CONTACT =====*/
 .contact{
+    
+     
     &__container{
         row-gap: 2rem;
     }

@@ -204,10 +204,10 @@ img{
     color: var(--white-color);
 }
 .home__img{
-    position: absolute;
-    right: 0;
+    position:absolute;
+    right: 150%;
     bottom: 0;
-    width: 295px;
+    width: 505px;
 }
 
 /* ===== ABOUT =====*/
@@ -227,7 +227,8 @@ img{
     overflow: hidden;
 }
 .about__img img{
-    width: 100px;
+    width: 300px;
+
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
